@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import Banner from '../components/home/Banner';
+import TheMystery from '../components/home/TheMystery';
 
 export default function HomePage() {
   const t = useTranslations('Home');
@@ -9,6 +10,7 @@ export default function HomePage() {
   return (
     <div>
      <Banner />
+     <TheMystery />
 
     </div>
   );

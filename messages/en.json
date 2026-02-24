@@ -18,6 +18,24 @@
     "buttonTxt": "Detect Disease Now",
     "badge": ["98% Accuracy", "Instant Results"]
   },
+  "Mystery": {
+    "heading": "The mystery of Agric.ai solved",
+    "pera": "Agric.ai brings extensive data on crops and diseases, advanced identification tools, and comprehensive information for farmers for innovative and advanced farming.",
+    "cards": [
+      {
+        "title": "Automatically Detect Disease",
+        "description": "From powdery mildew to bud rot, mosaic and more, Agric.ai finds them all... automatically!"
+      },
+      {
+        "title": "Reduce Scouting Time",
+        "description": "Why waste your time finding problems when you can instead be solving them?"
+      },
+      {
+        "title": "Reduce Crop Loss",
+        "description": "Don't let a good plant go to waste! Increase your yield with Agric.ai automated scouting."
+      }
+    ]
+  },
   "Buttons": {
     "english": "English",
     "bangla": "Bangla"
