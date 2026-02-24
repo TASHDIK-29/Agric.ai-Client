@@ -12,6 +12,12 @@
     "Detect": "Detect Disease Now"
     
   },
+  "Banner": {
+    "heading": "Professional Crop Disease Detection with 98% Accuracy",
+    "pera": "Specialized AI platform for identifying 200+ plant diseases and pests. Get instant diagnosis and treatment recommendations from professional-grade diagnostic technology.",
+    "buttonTxt": "Detect Disease Now",
+    "badge": ["98% Accuracy", "Instant Results"]
+  },
   "Buttons": {
     "english": "English",
     "bangla": "Bangla"

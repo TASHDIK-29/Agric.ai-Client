@@ -33,7 +33,7 @@ const Navbar = () => {
 
   return (
     <>
-      <header className="sticky top-0 z-50 w-full bg-white/80  backdrop-blur-md border-b border-gray-200">
+      <header className="sticky top-0 z-50 w-full bg-white border-b border-gray-200">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 items-center justify-between">
             {/* Logo Section */}
@@ -52,7 +52,7 @@ const Navbar = () => {
                 <a
                   key={link.text}
                   href={link.href}
-                  className="text-sm font-medium text-gray-600 hover:text-emerald-600 transition-colors duration-300"
+                  className="text-md font-medium text-gray-600 hover:text-emerald-600 transition-colors duration-300"
                 >
                   {link.text}
                 </a>
