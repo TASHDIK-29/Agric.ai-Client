@@ -1,0 +1,19 @@
+{
+  "Home": {
+    "title": "Welcome to My App",
+    "description": "This is a multilingual demo."
+  },
+  "Nav": {
+    "Name": "Agric.ai",
+    "Home": "Home",
+    "About": "About",
+    "Pricing": "Pricing",
+    "Article": "Article",
+    "Detect": "Detect Disease Now"
+    
+  },
+  "Buttons": {
+    "english": "English",
+    "bangla": "Bangla"
+  }
+}
