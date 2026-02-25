@@ -36,6 +36,28 @@
       }
     ]
   },
+  "KnowledgeHub": {
+    "heading": "Agricultural Knowledge Hub",
+    "pera": "Expert insights, research-backed strategies, and practical guides to help you master modern farming",
+    "button": "View All",
+    "cards": [
+      {
+        "title": "Disease Detection Guide",
+        "description": "Master the art of early crop disease identification with AI-powered scanning and expert techniques.",
+        "buttonTxt": "Read Complete Guide"
+      },
+      {
+        "title": "AI vs Traditional Methods",
+        "description": "Discover how artificial intelligence achieves 98% accuracy compared to traditional 60-75% methods.",
+        "buttonTxt": "Compare Technologies"
+      },
+      {
+        "title": "Top 10 Destructive Diseases",
+        "description": "Learn about the world's most devastating crop diseases and proven prevention strategies.",
+        "buttonTxt": "Explore Threats"
+      }
+    ]
+  },
   "Buttons": {
     "english": "English",
     "bangla": "Bangla"
