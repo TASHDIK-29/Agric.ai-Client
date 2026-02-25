@@ -58,6 +58,13 @@
       }
     ]
   },
+  "Footer": {
+    "pera": "Specialized AI platform for identifying 4 crop diseases. Get instant diagnosis and treatment recommendations from professional-grade diagnostic technology.",
+    "products": ["Crop Disease Detection", "Recommendation", "Market Analysis", "Weather Updates"],
+    "links": ["Home", "Article", "Weather", "About", "Disease Diagnosis"],
+    "contact": ["support@agric-ai.com", "014xxxxxxx", "Rajshahi"],
+    "tags": ["Quick Links", "Resources", "Contact Us"]
+  },
   "Buttons": {
     "english": "English",
     "bangla": "Bangla"

@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Menu, X } from "lucide-react"
+import { Cannabis, Menu, X } from "lucide-react"
 import { useTranslations } from "next-intl"
 import LanguageSwitcher from "../LanguageSwitcher"
 import Image from "next/image"
@@ -33,13 +33,16 @@ const Navbar = () => {
 
   return (
     <>
-      <header className="sticky top-0 z-50 w-full bg-white border-b border-gray-200">
+      <header className="sticky top-0 z-50 w-full bg-white/80 backdrop-blur-xs border-b border-gray-200">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 items-center justify-between">
             {/* Logo Section */}
             <div className="shrink-0">
-              <a href="#" className="flex items-center">
-                <Image src={'/logo.png'} alt="logo" width={54} height={54}/>
+              <a href="#" className="flex items-center gap-2">
+                {/* <Image src={'/logo.png'} alt="logo" width={54} height={54}/> */}
+                <div className="p-2 rounded-xl bg-green-600 text-white">
+                  <Cannabis />
+                </div>
                 <span className="font-bold text-[24px] text-gray-900">
                   {t('Name')}
                 </span>
